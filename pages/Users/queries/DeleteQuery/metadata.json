@@ -1,6 +1,6 @@
 {
   "gitSyncId": "67d3d12ec5ff1873ea99cad8_b0e7f3d9-c5fe-499f-ac82-e59793507ab0",
-  "id": "Page1_DeleteQuery",
+  "id": "Users_DeleteQuery",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
@@ -24,7 +24,7 @@
     },
     "executeOnLoad": false,
     "name": "DeleteQuery",
-    "pageId": "Page1",
+    "pageId": "Users",
     "userSetOnLoad": false
   }
 }
